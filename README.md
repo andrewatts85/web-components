@@ -3,7 +3,7 @@
 Web Components are a concept used in modern web development to break a web application into small, more-easily manageable parts. Essentially, this is a small, visual template you create with the intention of re-using it. You will learn more about the deeper philosophy behind web components in the future. For this project, you will create your first web component that you can re-use from here onward.  
 
 ### Multi Page Website
-[Source](https://github.com/andrewatts85/multi-page-website)
+[Source](https://github.com/andrewatts85/multi-page-website)  
 [Live Demo](https://andrewatts85.github.io/multi-page-website/)
 
 ### Button Components
