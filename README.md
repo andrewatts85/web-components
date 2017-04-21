@@ -53,7 +53,13 @@ Web Components are a concept used in modern web development to break a web appli
 ### Login Form 
 
 [Source](https://github.com/andrewatts85/login-form)  
-[Live Demo](https://andrewatts85.github.io/login-form/)
+[Live Demo](https://andrewatts85.github.io/login-form/)  
+
+*Updated login form*  
+
+[Source](https://github.com/andrewatts85/flex-login-form)  
+[Demo](https://andrewatts85.github.io/flex-login-form/)  
+[Codepen](http://codepen.io/andrewatts85/pen/NpLVNb)  
 
 ### Shipping and Billing Form
 
