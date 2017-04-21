@@ -39,6 +39,12 @@ Web Components are a concept used in modern web development to break a web appli
 [Source](https://github.com/andrewatts85/questionnaire)  
 [Live Demo](https://andrewatts85.github.io/questionnaire/)
 
+*Updated questionnaire*  
+
+[Source](https://github.com/andrewatts85/flex-questionnaire-form)  
+[Demo](https://andrewatts85.github.io/flex-questionnaire-form/)  
+[Codepen](http://codepen.io/andrewatts85/pen/EWONRp)  
+
 ### Color Building Form
 
 [Source](https://github.com/andrewatts85/color-building-form)  
