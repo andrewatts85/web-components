@@ -18,7 +18,7 @@ Web Components are a concept used in modern web development to break a web appli
 [Source](https://github.com/andrewatts85/sign-up-form)  
 [Live Demo](https://andrewatts85.github.io/sign-up-form/)
 
-*updated sign up form*  
+*Update*  
 
 [Source](https://github.com/andrewatts85/flex-sign-up-form)  
 [Demo](https://andrewatts85.github.io/flex-sign-up-form/)  
@@ -26,7 +26,13 @@ Web Components are a concept used in modern web development to break a web appli
 
 ### Search Form
 [Source](https://github.com/andrewatts85/search-form)  
-[Live Demo](https://andrewatts85.github.io/search-form/)
+[Live Demo](https://andrewatts85.github.io/search-form/)  
+
+*Update*  
+
+[Source](https://github.com/andrewatts85/flex-search-bar)  
+[Demo](https://andrewatts85.github.io/flex-search-bar/)  
+[Codepen](http://codepen.io/andrewatts85/pen/vxVjWa)  
 
 ### Questionnaire
 
