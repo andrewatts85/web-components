@@ -64,24 +64,55 @@ Web Components are a concept used in modern web development to break a web appli
 ### Shipping and Billing Form
 
 [Source](https://github.com/andrewatts85/shipping-and-billing-form)  
-[Live Demo](https://andrewatts85.github.io/shipping-and-billing-form/)
+[Live Demo](https://andrewatts85.github.io/shipping-and-billing-form/)  
+
+*Updated shipping and billing form*  
+
+[Source](https://github.com/andrewatts85/flex-shipping-billing-form)  
+[Demo](https://andrewatts85.github.io/flex-shipping-billing-form/)  
+[Codepen](http://codepen.io/andrewatts85/pen/qryXEo)  
+
 
 ### Scheduling Form
 
 [Source](https://github.com/andrewatts85/scheduling-form)  
-[Live Demo](https://andrewatts85.github.io/scheduling-form/)
+[Live Demo](https://andrewatts85.github.io/scheduling-form/)  
+
+*Updated scheduling form*  
+
+[Source](https://github.com/andrewatts85/flex-scheduling-form)  
+[Demo](https://andrewatts85.github.io/flex-scheduling-form/)  
+[Codepen](http://codepen.io/andrewatts85/pen/qryXEo)  
 
 ### Credit Card Form
 
 [Source](https://github.com/andrewatts85/credit-card-form)  
-[Live Demo](https://andrewatts85.github.io/credit-card-form/)
+[Live Demo](https://andrewatts85.github.io/credit-card-form/)  
+
+*Updated credit card form*  
+
+[Source](https://github.com/andrewatts85/flex-credit-card)  
+[Demo](https://andrewatts85.github.io/flex-credit-card/)  
+[Codepen](http://codepen.io/andrewatts85/pen/WpdxEZ)  
 
 ### The Calculator
 
 [Source](https://github.com/andrewatts85/the-calculator)  
-[Live Demo](https://andrewatts85.github.io/the-calculator/)
+[Live Demo](https://andrewatts85.github.io/the-calculator/)  
+
+*Updated calculator*  
+
+[Source](https://github.com/andrewatts85/calculator-vanilla-js)  
+[Demo](https://andrewatts85.github.io/calculator-vanilla-js/)  
+[Codepen](http://codepen.io/andrewatts85/pen/gryjNZ)  
 
 ### Product Listing Page
 
 [Source](https://github.com/andrewatts85/product-listing-page)  
-[Live Demo](https://andrewatts85.github.io/product-listing-page/)
+[Live Demo](https://andrewatts85.github.io/product-listing-page/)  
+
+*Updated product listing page*  
+
+[Source](https://github.com/andrewatts85/product-listing-page-shoe-store)  
+[Demo](https://andrewatts85.github.io/product-listing-page-shoe-store/)  
+[Codepen](http://codepen.io/andrewatts85/pen/oZJWRm)  
