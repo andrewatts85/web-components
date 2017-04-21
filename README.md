@@ -20,9 +20,9 @@ Web Components are a concept used in modern web development to break a web appli
 
 *updated sign up form*  
 
-[Source](https://github.com/andrewatts85/flex-sign-up-form)
-[Demo](https://andrewatts85.github.io/flex-sign-up-form/)
-[Codepen](http://codepen.io/andrewatts85/pen/MpXpGV)
+[Source](https://github.com/andrewatts85/flex-sign-up-form)  
+[Demo](https://andrewatts85.github.io/flex-sign-up-form/)  
+[Codepen](http://codepen.io/andrewatts85/pen/MpXpGV)  
 
 ### Search Form
 [Source](https://github.com/andrewatts85/search-form)  
