@@ -116,3 +116,21 @@ Web Components are a concept used in modern web development to break a web appli
 [Source](https://github.com/andrewatts85/product-listing-page-shoe-store)  
 [Demo](https://andrewatts85.github.io/product-listing-page-shoe-store/)  
 [Codepen](http://codepen.io/andrewatts85/pen/oZJWRm)  
+
+### Tab Component
+
+[Source](https://github.com/andrewatts85/tab-component)  
+[Demo](https://andrewatts85.github.io/tab-component/)  
+[Codepen](https://codepen.io/andrewatts85/pen/GmdLWO)  
+
+### Accordion  
+
+[Source](https://github.com/andrewatts85/accordion)  
+[Demo](https://andrewatts85.github.io/accordion/)  
+[Codepen](https://codepen.io/andrewatts85/pen/WjyOaZ)  
+
+### Image Gallery
+
+[Source](https://github.com/andrewatts85/image-gallery)  
+[Demo](https://andrewatts85.github.io/image-gallery/)  
+[Codepen](https://codepen.io/andrewatts85/pen/rmQOwL)  
